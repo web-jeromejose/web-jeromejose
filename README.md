@@ -11,7 +11,7 @@
 
 - 💬 Ask me about cloud services, web development, automating business workflows with Azure, or integrating complex systems with Dynamics 365.
 
-- 📫 How to reach me: Just call me at +44 7943678*** or connect via LinkedIn 💼 <a href="https://www.linkedin.com/in/jeromefloresjose/">LinkedIn</a> 💼
+- 📫 How to reach me: Connect via LinkedIn 💼 <a href="https://www.linkedin.com/in/jeromefloresjose/">LinkedIn</a> 💼
 
 - 😄 Pronouns: He/Him
 
