@@ -43,7 +43,7 @@ I'm **Jerome Jose**, a passionate Software Engineer with over 10 years of experi
 ## 📫 Let's Connect
 
 �� **LinkedIn:** [Jerome Jose](https://www.linkedin.com/in/jeromefloresjose/)  
-🌐 **Portfolio:** [jerome-jose.com](https://jeromecodeweb.com/) *(Coming Soon)*  
+🌐 **Portfolio:** [jeromecodeweb.com](https://jeromecodeweb.com/) *(Coming Soon)*  
 📧 **Email:** [your-email@example.com](mailto:mesekarome@gmail.com)
 
 ## �� About Me
