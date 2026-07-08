@@ -121,18 +121,7 @@ I believe software should be secure, scalable & quietly dependable — the kind 
 
 > Skills are compiled straight from my [portfolio site](https://web-jeromejose.github.io)'s content. A few "market-hot" additions (LLM/RAG tooling) reflect what I'm actively picking up — happy to talk depth on any of the above.
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=web-jeromejose&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=web-jeromejose&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
-
-<img src="https://streak-stats.demolab.com?user=web-jeromejose&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=web-jeromejose&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophy" />
-
-</div>
+ 
 
 ## 💼 Experience Snapshot
 
@@ -183,47 +172,7 @@ This repo powers **[web-jeromejose.github.io](https://web-jeromejose.github.io)*
 |---|---|
 | `index.html` | **Day edition** — macOS-style "window" chrome (traffic-light dots) for every section, Geist + Caveat typography, a floating glass social dock, and count-up stat tiles on scroll. |
 | `index-v1-classic.html` | **Night edition** — dark-first "terminal" take: emerald-on-charcoal palette, a typed terminal hero, animated glow backdrop, and scroll-reveal. |
-
-### ✨ Site Features
-
-- Fully responsive, mobile-hardened layout (safe-area aware, breakpoints at 820 / 680 / 400px)
-- Light/dark theme toggle with persisted preference (separate `localStorage` keys per design so they don't clash)
-- Auto-scrolling **gallery marquee** (hover-pause, click-to-lightbox) with category pills, backed by real project screenshots
-- Animated, `IntersectionObserver`-driven stat counters
-- SEO-friendly semantic HTML with `og:url` / canonical tags
-- Zero build tooling — deploys as static files straight to GitHub Pages
-
-### 📁 Project Structure
-
-```
-web-jeromejose.github.io/
-├── index.html              # Day edition (deployed default)
-├── index-v1-classic.html   # Night / terminal edition
-├── images/                 # Gallery screenshots & assets
-├── .nojekyll                # Disables Jekyll processing on GitHub Pages
-└── README.md
-```
-
-### 🚀 Running Locally
-
-```bash
-git clone https://github.com/web-jeromejose/web-jeromejose.github.io.git
-cd web-jeromejose.github.io
-
-# Just open it — no build step required
-open index.html            # macOS
-start index.html           # Windows
-```
-
-For live-reload during edits, serve it with any static server, e.g. `npx serve .`.
-
-### 🌐 Browser Support
-
-Chrome · Firefox · Safari · Edge · Mobile browsers (latest versions)
-
-## 📄 License
-
-Open source under the [MIT License](LICENSE).
+ 
 
 ---
 
