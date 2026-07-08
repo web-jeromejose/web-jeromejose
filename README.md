@@ -161,17 +161,7 @@ Full write-ups with impact numbers and tech stacks live in the ["Where I've work
 I'm open to new opportunities — a question, a role, or just a hello. My inbox is open.
 
 ---
-
-## 🖥️ About This Repository
-
-This repo powers **[web-jeromejose.github.io](https://web-jeromejose.github.io)**, a single-page portfolio built with plain HTML, CSS & vanilla JavaScript — no build step, no framework.
-
-### 🌗 Two designs, one deploy
-
-| File | Design |
-|---|---|
-| `index.html` | **Day edition** — macOS-style "window" chrome (traffic-light dots) for every section, Geist + Caveat typography, a floating glass social dock, and count-up stat tiles on scroll. |
-| `index-v1-classic.html` | **Night edition** — dark-first "terminal" take: emerald-on-charcoal palette, a typed terminal hero, animated glow backdrop, and scroll-reveal. |
+ 
  
 
 ---
