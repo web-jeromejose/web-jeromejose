@@ -1,62 +1,234 @@
-### Hi there ��
+<div align="center">
 
-I'm **Jerome Jose**, a passionate Software Engineer with over 10 years of experience crafting robust, scalable solutions on the Microsoft stack. I specialize in cloud-native applications, enterprise system modernization, and translating complex business requirements into efficient, secure systems.
+# Hi, I'm Jerome Jose 👋
 
-## �� What I'm Currently Up To
+### Senior Full-Stack Software Engineer — .NET · Azure · React · AI Automation
 
-- �� **Building Cloud-Native Solutions** at BuyaGift, where I'm architecting and implementing enterprise-grade applications using Azure Cloud Services, Dynamics 365, and modern web technologies. My focus is on automating business workflows and optimizing system performance for scalability.
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=10%2B+years+turning+messy+workflows+into+clean+systems;.NET+8+%E2%80%A2+Azure+%E2%80%A2+React+%E2%80%A2+AI-powered+automation;Currently+building+CRM+%40+Pantheon+%F0%9F%9A%80;Off+the+clock%3A+chasing+good+coffee+%E2%98%95" alt="Typing SVG" />
 
-- 🌱 **Expanding My Cloud Expertise** by diving deeper into Infrastructure as Code with Terraform, mastering Azure Data Factory for data integration, and exploring the full potential of Microsoft Power Platform for business process automation.
+[![Live Site](https://img.shields.io/badge/Live%20Site-web--jeromejose.github.io-2E9EF7?style=for-the-badge&logo=githubpages&logoColor=white)](https://web-jeromejose.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-jeromefloresjose-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeromefloresjose/)
+[![Email](https://img.shields.io/badge/Email-mrjeromejose%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mrjeromejose@gmail.com)
+[![Location](https://img.shields.io/badge/Location-London%2C%20UK-444?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 
-- 👯 **Open to Collaboration** on exciting projects involving full-stack development, cloud migration strategies, or innovative integrations with Azure Functions, APIs, and Dynamics 365. I love working on challenging problems that push the boundaries of what's possible.
+![Profile Views](https://komarev.com/ghpvc/?username=web-jeromejose&color=2E9EF7&style=flat-square&label=Portfolio+Views)
 
-## ��️ My Tech Arsenal
-
-**Backend & Cloud:** C#, .NET Core, ASP.NET, Azure Functions, Azure SQL, Service Bus  
-**Frontend & UI:** React, TypeScript, Material-UI, Modern Web Development  
-**Enterprise:** Dynamics 365, Power Platform, Dataverse, SSIS, Logic Apps  
-**DevOps & Infrastructure:** Terraform, Git, Azure DevOps, CI/CD  
-**Data & Integration:** Azure Data Factory, KingswaySoft, API Management  
-
-## �� What I'm Exploring
-
-- 🤔 **AI-Powered Solutions** for customer service automation and intelligent business processes
-- 🏗️ **Microservices Architecture** with modern frameworks and best practices
-- 🔄 **Advanced Workflow Automation** using Azure Logic Apps and Power Automate
-- 📊 **Real-time Analytics** and data visualization with Power BI
-
-## �� Let's Talk About
-
-- ☁️ **Cloud Architecture** and Azure service optimization
-- 🔧 **System Modernization** and legacy application migration
-- 🤖 **Workflow Automation** and business process improvement
-- 🔗 **API Development** and system integration strategies
-- 📈 **Performance Optimization** and scalability solutions
-
-## 🌟 Recent Achievements
-
-- **Enhanced Customer Service** by integrating AI chatbots with back-office systems via Azure Functions
-- **Modernized Legacy Systems** by migrating complex workflows into Dynamics 365 Customer Service
-- **Improved Data Management** through custom plugins and automated data synchronization
-- **Delivered Healthcare Solutions** with full-scale Hospital Information Systems
-
-## 📫 Let's Connect
-
-�� **LinkedIn:** [Jerome Jose](https://www.linkedin.com/in/jeromefloresjose/)  
-🌐 **Portfolio:** [jeromecodeweb.com](https://jeromecodeweb.com/) *(Coming Soon)*  
-📧 **Email:** [your-email@example.com](mailto:mesekarome@gmail.com)
-
-## �� About Me
-
-- **Pronouns:** He/Him
-- 🏀 **Passion:** Basketball enthusiast and music lover
-- �� **Hobby:** Playing the drums (though I'll stick to the rhythm, not the vocals!)
-- �� **Goal:** Building solutions that make a real impact on businesses and users
-
-## ⚡ Fun Fact
-
-When I'm not coding or architecting cloud solutions, you'll find me on the basketball court or behind a drum set. I believe in the rhythm of both code and music - they both require precision, creativity, and the ability to work harmoniously with others!
+</div>
 
 ---
 
-*Looking for a Software Engineer who can turn complex business challenges into elegant, scalable solutions? Let's build something amazing together! 🚀*
+## 🧑‍💻 About Me
+
+A backend-leaning engineer with **10+ years** turning messy business workflows into clean, reliable systems — secure and cloud-native, built on **.NET, Azure & React**. Currently at **Pantheon**, designing and supporting enterprise Dynamics 365 / Power Platform solutions for a global private-markets investment firm, all-in on **AI-powered automation**.
+
+I believe software should be secure, scalable & quietly dependable — the kind that just works.
+
+- 📍 London, UK &nbsp;·&nbsp; 🎓 AMA University &nbsp;·&nbsp; 💼 Pantheon, Software Engineer (CRM)
+- 🔭 Currently building: AI-powered automation & CRM tooling
+- 🌱 Currently exploring: LLM integration, RAG pipelines & prompt engineering for real-world automation
+- ☕ Off the clock: chasing good coffee and wiring up automations for fun
+
+<table>
+<tr>
+<td align="center"><b>10+</b><br/><sub>Years experience</sub></td>
+<td align="center"><b>33%</b><br/><sub>CS efficiency gain</sub></td>
+<td align="center"><b>70%</b><br/><sub>Fewer deploy failures</sub></td>
+<td align="center"><b>3</b><br/><sub>Countries · HIS live</sub></td>
+</tr>
+</table>
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=cs,dotnet,ts,py,react,angular,azure,docker,terraform,redis,mysql,git,github,vscode,postman&theme=dark" alt="Skill icons" />
+
+</div>
+
+**Languages**
+
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+**Frameworks & Data Access**
+
+![.NET 8](https://img.shields.io/badge/.NET%208-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![EF Core](https://img.shields.io/badge/EF%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Dapper](https://img.shields.io/badge/Dapper-512BD4?style=for-the-badge)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+
+**Architecture**
+
+![Microservices](https://img.shields.io/badge/Microservices-343434?style=for-the-badge)
+![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-343434?style=for-the-badge)
+![CQRS](https://img.shields.io/badge/CQRS-343434?style=for-the-badge)
+![DDD](https://img.shields.io/badge/DDD-343434?style=for-the-badge)
+![Event-Driven](https://img.shields.io/badge/Event--Driven-343434?style=for-the-badge)
+
+**Cloud & Messaging**
+
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Azure Functions](https://img.shields.io/badge/Azure%20Functions-0062AD?style=for-the-badge&logo=azurefunctions&logoColor=white)
+![App Services](https://img.shields.io/badge/App%20Services-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Service Fabric](https://img.shields.io/badge/Service%20Fabric-0078D4?style=for-the-badge)
+![Service Bus](https://img.shields.io/badge/Service%20Bus-0078D4?style=for-the-badge)
+![Event Grid](https://img.shields.io/badge/Event%20Grid-0078D4?style=for-the-badge)
+![Logic Apps](https://img.shields.io/badge/Logic%20Apps-0078D4?style=for-the-badge)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+**Data & Integration**
+
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Cosmos DB](https://img.shields.io/badge/Cosmos%20DB-0078D4?style=for-the-badge&logo=azurecosmosdb&logoColor=white)
+![ADF](https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?style=for-the-badge)
+![REST](https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge)
+![gRPC](https://img.shields.io/badge/gRPC-4285F4?style=for-the-badge)
+![OAuth2/JWT](https://img.shields.io/badge/OAuth2%20%2F%20JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
+![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)
+![HubSpot](https://img.shields.io/badge/HubSpot-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white)
+
+**DevOps & Observability**
+
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![App Insights](https://img.shields.io/badge/App%20Insights-0078D4?style=for-the-badge)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-425CC7?style=for-the-badge&logo=opentelemetry&logoColor=white)
+![Serilog](https://img.shields.io/badge/Serilog-1E1E1E?style=for-the-badge)
+
+**Platforms & Testing**
+
+![Dynamics 365](https://img.shields.io/badge/Dynamics%20365-002050?style=for-the-badge&logo=microsoftdynamics365&logoColor=white)
+![Dataverse](https://img.shields.io/badge/Dataverse-742774?style=for-the-badge)
+![Power Platform](https://img.shields.io/badge/Power%20Platform-742774?style=for-the-badge&logo=powerapps&logoColor=white)
+![xUnit](https://img.shields.io/badge/xUnit-512BD4?style=for-the-badge)
+![Polly](https://img.shields.io/badge/Polly-7B42BC?style=for-the-badge)
+![SonarCloud](https://img.shields.io/badge/SonarCloud-F3702A?style=for-the-badge&logo=sonarcloud&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+
+**AI & Automation**
+
+![LLM Integration](https://img.shields.io/badge/LLM%20Integration-10A37F?style=for-the-badge&logo=openai&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-10A37F?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-10A37F?style=for-the-badge)
+![AI Automation](https://img.shields.io/badge/AI%20Automation-10A37F?style=for-the-badge)
+
+> Skills are compiled straight from my [portfolio site](https://web-jeromejose.github.io)'s content. A few "market-hot" additions (LLM/RAG tooling) reflect what I'm actively picking up — happy to talk depth on any of the above.
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=web-jeromejose&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=web-jeromejose&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
+
+<img src="https://streak-stats.demolab.com?user=web-jeromejose&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=web-jeromejose&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophy" />
+
+</div>
+
+## 💼 Experience Snapshot
+
+| When | Company | Role |
+|---|---|---|
+| May 2026 — Present | **Pantheon** | Software Engineer, CRM |
+| Aug 2022 — Apr 2026 | **Moonpig Group PLC** | Senior Software Engineer — Buyagift / Red Letter Days |
+| Mar 2021 — Jul 2022 | **HESA** | Software Developer |
+| Aug 2016 — Feb 2021 | **Saudi German Hospitals** | Software Engineer |
+| Apr 2014 — Jul 2016 | **NuWorks Interactive Labs** | Software Engineer |
+| Mar 2011 — Mar 2014 | **PhilWeb Corporation** | System Analyst Programmer |
+
+Full write-ups with impact numbers and tech stacks live in the ["Where I've worked"](https://web-jeromejose.github.io#work) section of the site.
+
+## 🚀 Featured Projects
+
+- **AI-Powered Automation Suite** — chatbot for voucher reprint/resend & payment lookups, plus an AI PDF-parsing service that cut manual parsing by 70%.
+- **Dynamics 365 Migration** — migrated legacy voucher, refund, exchange & reprint workflows into Dynamics 365 Customer Service (+33% CS efficiency).
+- **Finance Reconciliation & Refunds** — high-throughput .NET 8 Azure Functions across Checkout.com, PayPal & Klarna, covering 70% of transactions.
+- **Issue Management System** — microservices platform for UK university data inconsistencies, with RBAC & operational dashboards.
+- **Hospital Information System** — full-scale HIS deployed across 3 countries: patient management, scheduling, billing & EMR/LIS integration.
+- **Driving Reaction Test System** — C#/ASP.NET system wired to custom hardware for real-time reaction testing & analysis.
+
+## 🏆 Achievements
+
+- 🏅 **Employee of the Month** — Moonpig Group (Feb 2024)
+- 🏆 **Team of the Year Nominee** — Moonpig, cross-brand platform modernisation
+- 🌟 **Employee of the Year** — NuWorks Interactive Labs (2015)
+- 📉 **70% fewer deployment failures** via Terraform modules + Azure DevOps CI/CD
+
+## 📬 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeromefloresjose/)
+[![Email](https://img.shields.io/badge/Email-Say%20Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mrjeromejose@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-2E9EF7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://web-jeromejose.github.io)
+
+I'm open to new opportunities — a question, a role, or just a hello. My inbox is open.
+
+---
+
+## 🖥️ About This Repository
+
+This repo powers **[web-jeromejose.github.io](https://web-jeromejose.github.io)**, a single-page portfolio built with plain HTML, CSS & vanilla JavaScript — no build step, no framework.
+
+### 🌗 Two designs, one deploy
+
+| File | Design |
+|---|---|
+| `index.html` | **Day edition** — macOS-style "window" chrome (traffic-light dots) for every section, Geist + Caveat typography, a floating glass social dock, and count-up stat tiles on scroll. |
+| `index-v1-classic.html` | **Night edition** — dark-first "terminal" take: emerald-on-charcoal palette, a typed terminal hero, animated glow backdrop, and scroll-reveal. |
+
+### ✨ Site Features
+
+- Fully responsive, mobile-hardened layout (safe-area aware, breakpoints at 820 / 680 / 400px)
+- Light/dark theme toggle with persisted preference (separate `localStorage` keys per design so they don't clash)
+- Auto-scrolling **gallery marquee** (hover-pause, click-to-lightbox) with category pills, backed by real project screenshots
+- Animated, `IntersectionObserver`-driven stat counters
+- SEO-friendly semantic HTML with `og:url` / canonical tags
+- Zero build tooling — deploys as static files straight to GitHub Pages
+
+### 📁 Project Structure
+
+```
+web-jeromejose.github.io/
+├── index.html              # Day edition (deployed default)
+├── index-v1-classic.html   # Night / terminal edition
+├── images/                 # Gallery screenshots & assets
+├── .nojekyll                # Disables Jekyll processing on GitHub Pages
+└── README.md
+```
+
+### 🚀 Running Locally
+
+```bash
+git clone https://github.com/web-jeromejose/web-jeromejose.github.io.git
+cd web-jeromejose.github.io
+
+# Just open it — no build step required
+open index.html            # macOS
+start index.html           # Windows
+```
+
+For live-reload during edits, serve it with any static server, e.g. `npx serve .`.
+
+### 🌐 Browser Support
+
+Chrome · Firefox · Safari · Edge · Mobile browsers (latest versions)
+
+## 📄 License
+
+Open source under the [MIT License](LICENSE).
+
+---
+
+<div align="center">
+
+**Built with ❤️ (and a lot of coffee ☕) by Jerome Jose**
+
+</div>
