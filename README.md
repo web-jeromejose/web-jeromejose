@@ -123,6 +123,34 @@ I believe software should be secure, scalable & quietly dependable — the kind 
 
  
 
+## AI Automation Skills
+
+I use modern AI workflow automation tools to design smarter business processes, connect apps, reduce manual work, and build practical automation systems for real teams. My focus is on applying these tools to CRM operations, internal workflows, customer service, content operations, and AI-assisted productivity.
+
+**AI workflow and automation tools I work with or actively explore:**
+
+![Zapier](https://img.shields.io/badge/Zapier-Automation%20%26%20AI%20Agents-FF4A00?style=for-the-badge&logo=zapier&logoColor=white)
+![Make](https://img.shields.io/badge/Make-Visual%20Workflow%20Automation-6D00CC?style=for-the-badge&logo=make&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-Open%20Source%20AI%20Automation-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Power Automate](https://img.shields.io/badge/Power%20Automate-Microsoft%20365%20Automation-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white)
+![Notion AI](https://img.shields.io/badge/Notion%20AI-Knowledge%20Management-000000?style=for-the-badge&logo=notion&logoColor=white)
+![ClickUp](https://img.shields.io/badge/ClickUp-AI%20Project%20Automation-7B68EE?style=for-the-badge&logo=clickup&logoColor=white)
+![Lindy](https://img.shields.io/badge/Lindy-AI%20Assistants%20%26%20Agents-10A37F?style=for-the-badge)
+![Phygital+](https://img.shields.io/badge/Phygital%2B-Employee%20Workflow%20Automation-2E9EF7?style=for-the-badge)
+
+| Tool | Automation focus | Where I can apply it |
+|---|---|---|
+| **Zapier** | No-code AI workflows, AI agents, chatbots, app-to-app automation | Connect Gmail, Slack, HubSpot, Trello, Salesforce, and business apps into reliable workflows |
+| **Make** | Visual workflow automation, API orchestration, data transformation | Build advanced multi-step automations with webhooks, APIs, filters, routers, and business logic |
+| **n8n** | Open-source AI automation, self-hosted workflows, developer-first integrations | Create custom LLM workflows, API integrations, database automations, and CRM-connected processes |
+| **Microsoft Power Automate** | Microsoft 365 automation, Copilot, AI Builder, RPA, document processing | Automate Teams, SharePoint, Outlook, Excel, Dynamics 365, and enterprise approval workflows |
+| **Notion AI** | AI knowledge management, documentation, search, summaries | Organize project knowledge, meeting notes, internal docs, and AI-assisted documentation workflows |
+| **ClickUp** | AI project management, task automation, productivity workflows | Automate tasks, summaries, documents, project tracking, and team delivery operations |
+| **Lindy** | AI assistants, sales support, customer service, email automation | Build AI assistants for scheduling, inbox workflows, CRM updates, and customer support tasks |
+| **Phygital+** | Employee workflow automation, digital workplace, HR operations | Improve employee workflows, internal communications, HR processes, and digital workplace automation |
+
+**Job-ready automation outcomes:** AI agent workflows, CRM automation, Microsoft 365 process automation, API/webhook integrations, document processing, task routing, customer support automation, internal knowledge workflows, and low-code/no-code business process improvement.
+
 ## 💼 Experience Snapshot
 
 | When | Company | Role |
