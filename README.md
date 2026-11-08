@@ -1,59 +1,97 @@
 <div align="center">
 
-# Hi, I'm Jerome Jose 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2E9EF7,100:10A37F&height=200&section=header&text=Jerome%20Jose&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Senior%20Full-Stack%20Software%20Engineer%20%E2%80%A2%20London%2C%20UK&descAlignY=58&descSize=18" width="100%" />
 
-### Senior Full-Stack Software Engineer — .NET · Azure · React · AI Automation
+<a href="https://jeromejose.co.uk">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=720&lines=.NET+%E2%80%A2+Azure+%E2%80%A2+React+%E2%80%A2+AI+Automation;10%2B+years+building+secure%2C+cloud-native+systems;Dynamics+365+%26+Power+Platform+at+Pantheon;Turning+messy+workflows+into+quiet%2C+reliable+software" alt="Typing SVG" />
+</a>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=10%2B+years+turning+messy+workflows+into+clean+systems;.NET+8+%E2%80%A2+Azure+%E2%80%A2+React+%E2%80%A2+AI-powered+automation;Currently+building+CRM+%40+Pantheon+%F0%9F%9A%80;Off+the+clock%3A+chasing+good+coffee+%E2%98%95" alt="Typing SVG" />
+<br/>
 
-[![Live Site](https://img.shields.io/badge/Live%20Site-web--jeromejose.github.io-2E9EF7?style=for-the-badge&logo=githubpages&logoColor=white)](https://web-jeromejose.github.io)
+[![Website](https://img.shields.io/badge/Website-jeromejose.co.uk-0F2027?style=for-the-badge&logo=googlechrome&logoColor=white)](https://jeromejose.co.uk)
+[![Portfolio](https://img.shields.io/badge/Portfolio-web--jeromejose.github.io-2E9EF7?style=for-the-badge&logo=githubpages&logoColor=white)](https://web-jeromejose.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-jeromefloresjose-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeromefloresjose/)
 [![Email](https://img.shields.io/badge/Email-mrjeromejose%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mrjeromejose@gmail.com)
-[![Location](https://img.shields.io/badge/Location-London%2C%20UK-444?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 
-![Profile Views](https://komarev.com/ghpvc/?username=web-jeromejose&color=2E9EF7&style=flat-square&label=Portfolio+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=web-jeromejose&color=2E9EF7&style=flat-square&label=Profile+Views)
+![Open to opportunities](https://img.shields.io/static/v1?label=Status&message=Open%20to%20work&color=success&style=flat-square&logo=linkedin&logoColor=white)
+![Location](https://img.shields.io/badge/Based%20in-London%2C%20UK-444?style=flat-square&logo=googlemaps&logoColor=white)
+![Education](https://img.shields.io/badge/education-AMA_University-1F6FEB?style=flat-square&logo=bookstack&logoColor=white)
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=cs,dotnet,azure,react,ts,angular,py,docker,terraform,redis,git,githubactions&perline=12" alt="Core skills" />
 
 </div>
+
+<p align="center">
+  <a href="#-about-me">About</a> •
+  <a href="#-impact-at-a-glance">Impact</a> •
+  <a href="#️-tech-stack">Stack</a> •
+  <a href="#-ai--automation">AI</a> •
+  <a href="#-featured-projects">Projects</a> •
+  <a href="#-experience">Experience</a> •
+  <a href="#-lets-connect">Contact</a>
+</p>
 
 ---
 
 ## 🧑‍💻 About Me
 
-A backend-leaning engineer with **10+ years** turning messy business workflows into clean, reliable systems — secure and cloud-native, built on **.NET, Azure & React**. Currently at **Pantheon**, designing and supporting enterprise Dynamics 365 / Power Platform solutions for a global private-markets investment firm, all-in on **AI-powered automation**.
+```csharp
+public sealed record JeromeJose : SoftwareEngineer
+{
+    public string   Role        => "Senior Full-Stack Software Engineer";
+    public string   Company     => "Pantheon — Software Engineer, CRM";
+    public string   Location    => "London, UK 🇬🇧";
+    public int      Experience  => 10; // years and counting
+    public string[] CoreStack   => [".NET 8", "Azure", "React", "Dynamics 365", "SQL Server"];
+    public string[] Exploring   => ["LLM integration", "RAG pipelines", "AI agents", "Prompt engineering"];
+    public string   Philosophy  => "Software should be secure, scalable & quietly dependable.";
+    public string   Fuel        => "☕ Good coffee";
+}
+```
 
-I believe software should be secure, scalable & quietly dependable — the kind that just works.
+I'm a backend-leaning engineer who turns **messy business workflows into clean, reliable systems**. Today I design and support enterprise **Dynamics 365 / Power Platform** solutions for a global private-markets investment firm — and I'm all-in on **AI-powered automation**.
 
-- 📍 London, UK &nbsp;·&nbsp; 🎓 AMA University &nbsp;·&nbsp; 💼 Pantheon, Software Engineer (CRM)
-- 🔭 Currently building: AI-powered automation & CRM tooling
-- 🌱 Currently exploring: LLM integration, RAG pipelines & prompt engineering for real-world automation
-- ☕ Off the clock: chasing good coffee and wiring up automations for fun
+- 🔭 **Building:** AI-powered automation & CRM tooling
+- 🌱 **Learning:** LLMs, RAG, and agentic workflows for real-world business problems
+- 💬 **Ask me about:** .NET microservices, Azure serverless, payments integration, Dynamics 365
+- ⚡ **Fun fact:** I wire up automations for fun on weekends
+- 🎓 **Education:** AMA University
 
-<table>
-<tr>
-<td align="center"><b>10+</b><br/><sub>Years experience</sub></td>
-<td align="center"><b>33%</b><br/><sub>CS efficiency gain</sub></td>
-<td align="center"><b>70%</b><br/><sub>Fewer deploy failures</sub></td>
-<td align="center"><b>3</b><br/><sub>Countries · HIS live</sub></td>
-</tr>
-</table>
+> 💡 *"The best software is the kind nobody has to think about — it just works."*
 
-## 🛠️ Tech Stack
+### 🎯 How I Work
+
+| 🔐 Secure by default | 📐 Clean architecture | 📊 Measure everything | 🤝 Business-first |
+|:---|:---|:---|:---|
+| OAuth2/JWT, RBAC and least-privilege across every service | CQRS, DDD and event-driven designs that stay maintainable | OpenTelemetry, App Insights & Serilog from day one | Every system starts from a real workflow and a real user |
+
+---
+
+## 📊 Impact at a Glance
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,ts,py,react,angular,azure,docker,terraform,redis,mysql,git,github,vscode,postman&theme=dark" alt="Skill icons" />
+| 🗓️ **10+** | 📈 **33%** | 🛡️ **70%** | 🤖 **70%** | 🌍 **3** |
+|:---:|:---:|:---:|:---:|:---:|
+| Years of experience | CS efficiency gain | Fewer deployment failures | Less manual PDF parsing | Countries running my HIS |
 
 </div>
 
-**Languages**
+---
+
+## 🛠️ Tech Stack
+
+<details open>
+<summary><b>💻 Languages & Frameworks</b></summary>
+<br/>
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-**Frameworks & Data Access**
-
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![.NET 8](https://img.shields.io/badge/.NET%208-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![EF Core](https://img.shields.io/badge/EF%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
@@ -61,38 +99,47 @@ I believe software should be secure, scalable & quietly dependable — the kind 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
-**Architecture**
+</details>
+
+<details open>
+<summary><b>☁️ Cloud, Messaging & Data</b></summary>
+<br/>
+
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Azure Functions](https://img.shields.io/badge/Azure%20Functions-0062AD?style=for-the-badge&logo=azurefunctions&logoColor=white)
+![App Services](https://img.shields.io/badge/App%20Services-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Service Bus](https://img.shields.io/badge/Service%20Bus-0078D4?style=for-the-badge)
+![Event Grid](https://img.shields.io/badge/Event%20Grid-0078D4?style=for-the-badge)
+![Logic Apps](https://img.shields.io/badge/Logic%20Apps-0078D4?style=for-the-badge)
+![Service Fabric](https://img.shields.io/badge/Service%20Fabric-0078D4?style=for-the-badge)
+![Data Factory](https://img.shields.io/badge/Azure_Data_Factory-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Cosmos DB](https://img.shields.io/badge/Cosmos%20DB-0078D4?style=for-the-badge&logo=azurecosmosdb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>🏗️ Architecture & Integration</b></summary>
+<br/>
 
 ![Microservices](https://img.shields.io/badge/Microservices-343434?style=for-the-badge)
 ![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-343434?style=for-the-badge)
 ![CQRS](https://img.shields.io/badge/CQRS-343434?style=for-the-badge)
 ![DDD](https://img.shields.io/badge/DDD-343434?style=for-the-badge)
 ![Event-Driven](https://img.shields.io/badge/Event--Driven-343434?style=for-the-badge)
-
-**Cloud & Messaging**
-
-![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Azure Functions](https://img.shields.io/badge/Azure%20Functions-0062AD?style=for-the-badge&logo=azurefunctions&logoColor=white)
-![App Services](https://img.shields.io/badge/App%20Services-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Service Fabric](https://img.shields.io/badge/Service%20Fabric-0078D4?style=for-the-badge)
-![Service Bus](https://img.shields.io/badge/Service%20Bus-0078D4?style=for-the-badge)
-![Event Grid](https://img.shields.io/badge/Event%20Grid-0078D4?style=for-the-badge)
-![Logic Apps](https://img.shields.io/badge/Logic%20Apps-0078D4?style=for-the-badge)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-**Data & Integration**
-
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Cosmos DB](https://img.shields.io/badge/Cosmos%20DB-0078D4?style=for-the-badge&logo=azurecosmosdb&logoColor=white)
-![ADF](https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?style=for-the-badge)
 ![REST](https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge)
 ![gRPC](https://img.shields.io/badge/gRPC-4285F4?style=for-the-badge)
-![OAuth2/JWT](https://img.shields.io/badge/OAuth2%20%2F%20JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![OAuth2 / JWT](https://img.shields.io/badge/OAuth2%20%2F%20JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
 ![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)
 ![HubSpot](https://img.shields.io/badge/HubSpot-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white)
 
-**DevOps & Observability**
+</details>
+
+<details>
+<summary><b>🚀 DevOps, Observability & Testing</b></summary>
+<br/>
 
 ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -101,101 +148,205 @@ I believe software should be secure, scalable & quietly dependable — the kind 
 ![App Insights](https://img.shields.io/badge/App%20Insights-0078D4?style=for-the-badge)
 ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-425CC7?style=for-the-badge&logo=opentelemetry&logoColor=white)
 ![Serilog](https://img.shields.io/badge/Serilog-1E1E1E?style=for-the-badge)
+![xUnit](https://img.shields.io/badge/xUnit-512BD4?style=for-the-badge)
+![Polly](https://img.shields.io/badge/Polly-7B42BC?style=for-the-badge)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+![SonarCloud](https://img.shields.io/badge/SonarCloud-F3702A?style=for-the-badge&logo=sonarcloud&logoColor=white)
 
-**Platforms & Testing**
+</details>
+
+<details>
+<summary><b>🧩 Microsoft Business Apps</b></summary>
+<br/>
 
 ![Dynamics 365](https://img.shields.io/badge/Dynamics%20365-002050?style=for-the-badge&logo=microsoftdynamics365&logoColor=white)
 ![Dataverse](https://img.shields.io/badge/Dataverse-742774?style=for-the-badge)
 ![Power Platform](https://img.shields.io/badge/Power%20Platform-742774?style=for-the-badge&logo=powerapps&logoColor=white)
-![xUnit](https://img.shields.io/badge/xUnit-512BD4?style=for-the-badge)
-![Polly](https://img.shields.io/badge/Polly-7B42BC?style=for-the-badge)
-![SonarCloud](https://img.shields.io/badge/SonarCloud-F3702A?style=for-the-badge&logo=sonarcloud&logoColor=white)
-![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+![Power Automate](https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white)
 
-**AI & Automation**
+</details>
+
+---
+
+## 🤖 AI & Automation
+
+I design smarter business processes — connecting apps, cutting manual work and putting AI where it actually helps: **CRM operations, customer service, internal workflows and content ops.**
 
 ![LLM Integration](https://img.shields.io/badge/LLM%20Integration-10A37F?style=for-the-badge&logo=openai&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-10A37F?style=for-the-badge)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-10A37F?style=for-the-badge)
-![AI Automation](https://img.shields.io/badge/AI%20Automation-10A37F?style=for-the-badge)
+![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white)
+![Make](https://img.shields.io/badge/Make-6D00CC?style=for-the-badge&logo=make&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Notion AI](https://img.shields.io/badge/Notion_AI-191919?style=for-the-badge&logo=notion&logoColor=white)
+![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white)
+![Lindy](https://img.shields.io/badge/Lindy-10A37F?style=for-the-badge)
+![Phygital](https://img.shields.io/static/v1?label=&message=PHYGITAL%20PLUS&color=blue&style=for-the-badge)
 
-> Skills are compiled straight from my [portfolio site](https://web-jeromejose.github.io)'s content. A few "market-hot" additions (LLM/RAG tooling) reflect what I'm actively picking up — happy to talk depth on any of the above.
+<details>
+<summary><b>🔍 Where I apply each tool</b></summary>
+<br/>
 
- 
-
-## AI Automation Skills
-
-I use modern AI workflow automation tools to design smarter business processes, connect apps, reduce manual work, and build practical automation systems for real teams. My focus is on applying these tools to CRM operations, internal workflows, customer service, content operations, and AI-assisted productivity.
-
-**AI workflow and automation tools I work with or actively explore:**
-
-![Zapier](https://img.shields.io/badge/Zapier-Automation%20%26%20AI%20Agents-FF4A00?style=for-the-badge&logo=zapier&logoColor=white)
-![Make](https://img.shields.io/badge/Make-Visual%20Workflow%20Automation-6D00CC?style=for-the-badge&logo=make&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-Open%20Source%20AI%20Automation-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Power Automate](https://img.shields.io/badge/Power%20Automate-Microsoft%20365%20Automation-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white)
-![Notion AI](https://img.shields.io/badge/Notion%20AI-Knowledge%20Management-000000?style=for-the-badge&logo=notion&logoColor=white)
-![ClickUp](https://img.shields.io/badge/ClickUp-AI%20Project%20Automation-7B68EE?style=for-the-badge&logo=clickup&logoColor=white)
-![Lindy](https://img.shields.io/badge/Lindy-AI%20Assistants%20%26%20Agents-10A37F?style=for-the-badge)
-![Phygital+](https://img.shields.io/badge/Phygital%2B-Employee%20Workflow%20Automation-2E9EF7?style=for-the-badge)
-
-| Tool | Automation focus | Where I can apply it |
+| Tool | Focus | Real-world use |
 |---|---|---|
-| **Zapier** | No-code AI workflows, AI agents, chatbots, app-to-app automation | Connect Gmail, Slack, HubSpot, Trello, Salesforce, and business apps into reliable workflows |
-| **Make** | Visual workflow automation, API orchestration, data transformation | Build advanced multi-step automations with webhooks, APIs, filters, routers, and business logic |
-| **n8n** | Open-source AI automation, self-hosted workflows, developer-first integrations | Create custom LLM workflows, API integrations, database automations, and CRM-connected processes |
-| **Microsoft Power Automate** | Microsoft 365 automation, Copilot, AI Builder, RPA, document processing | Automate Teams, SharePoint, Outlook, Excel, Dynamics 365, and enterprise approval workflows |
-| **Notion AI** | AI knowledge management, documentation, search, summaries | Organize project knowledge, meeting notes, internal docs, and AI-assisted documentation workflows |
-| **ClickUp** | AI project management, task automation, productivity workflows | Automate tasks, summaries, documents, project tracking, and team delivery operations |
-| **Lindy** | AI assistants, sales support, customer service, email automation | Build AI assistants for scheduling, inbox workflows, CRM updates, and customer support tasks |
-| **Phygital+** | Employee workflow automation, digital workplace, HR operations | Improve employee workflows, internal communications, HR processes, and digital workplace automation |
+| **Power Automate** | M365 automation, Copilot, AI Builder, RPA | Teams, SharePoint, Outlook, Excel & Dynamics 365 approval flows |
+| **n8n** | Self-hosted, developer-first AI workflows | Custom LLM pipelines, APIs, DB & CRM-connected processes |
+| **Make** | Visual orchestration & data transformation | Multi-step automations with webhooks, routers and business logic |
+| **Zapier** | No-code AI agents & app-to-app flows | Gmail, Slack, HubSpot, Salesforce and Trello integrations |
+| **Notion AI** | Knowledge management & summaries | Project docs, meeting notes, AI-assisted documentation |
+| **ClickUp** | AI project & task automation | Delivery tracking, summaries and team operations |
+| **Lindy** | AI assistants & agents | Inbox, scheduling, CRM updates and support tasks |
+| **Phygital+** | Employee workflow automation | HR processes, internal comms and digital-workplace flows |
 
-**Job-ready automation outcomes:** AI agent workflows, CRM automation, Microsoft 365 process automation, API/webhook integrations, document processing, task routing, customer support automation, internal knowledge workflows, and low-code/no-code business process improvement.
+**✅ Job-ready outcomes:** AI agent workflows · CRM automation · M365 process automation · API/webhook integrations · document processing · task routing · support automation · internal knowledge workflows.
 
-## 💼 Experience Snapshot
+</details>
 
-| When | Company | Role |
-|---|---|---|
-| May 2026 — Present | **Pantheon** | Software Engineer, CRM |
-| Aug 2022 — Apr 2026 | **Moonpig Group PLC** | Senior Software Engineer — Buyagift / Red Letter Days |
-| Mar 2021 — Jul 2022 | **HESA** | Software Developer |
-| Aug 2016 — Feb 2021 | **Saudi German Hospitals** | Software Engineer |
-| Apr 2014 — Jul 2016 | **NuWorks Interactive Labs** | Software Engineer |
-| Mar 2011 — Mar 2014 | **PhilWeb Corporation** | System Analyst Programmer |
-
-Full write-ups with impact numbers and tech stacks live in the ["Where I've worked"](https://web-jeromejose.github.io#work) section of the site.
+---
 
 ## 🚀 Featured Projects
 
-- **AI-Powered Automation Suite** — chatbot for voucher reprint/resend & payment lookups, plus an AI PDF-parsing service that cut manual parsing by 70%.
-- **Dynamics 365 Migration** — migrated legacy voucher, refund, exchange & reprint workflows into Dynamics 365 Customer Service (+33% CS efficiency).
-- **Finance Reconciliation & Refunds** — high-throughput .NET 8 Azure Functions across Checkout.com, PayPal & Klarna, covering 70% of transactions.
-- **Issue Management System** — microservices platform for UK university data inconsistencies, with RBAC & operational dashboards.
-- **Hospital Information System** — full-scale HIS deployed across 3 countries: patient management, scheduling, billing & EMR/LIS integration.
-- **Driving Reaction Test System** — C#/ASP.NET system wired to custom hardware for real-time reaction testing & analysis.
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 AI-Powered Automation Suite
+Chatbot for voucher reprint/resend & payment lookups, plus an **AI PDF-parsing service** that cut manual parsing by **70%**.
+
+`.NET` `Azure` `LLM` `Dynamics 365`
+
+</td>
+<td width="50%" valign="top">
+
+### 🔄 Dynamics 365 Migration
+Migrated legacy voucher, refund, exchange & reprint workflows into **Dynamics 365 Customer Service** — **+33% CS efficiency**.
+
+`Dynamics 365` `Dataverse` `Power Platform`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 💳 Finance Reconciliation & Refunds
+High-throughput **.NET 8 Azure Functions** across Checkout.com, PayPal & Klarna, covering **70% of transactions**.
+
+`.NET 8` `Azure Functions` `Service Bus`
+
+</td>
+<td width="50%" valign="top">
+
+### 🎓 Issue Management System
+Microservices platform resolving UK university data inconsistencies, with **RBAC** and operational dashboards.
+
+`Microservices` `ASP.NET Core` `SQL Server`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🏥 Hospital Information System
+Full-scale HIS live across **3 countries** — patient management, scheduling, billing & EMR/LIS integration.
+
+`C#` `ASP.NET` `SQL Server`
+
+</td>
+<td width="50%" valign="top">
+
+### 🚗 Driving Reaction Test System
+C#/ASP.NET system wired to **custom hardware** for real-time reaction testing & analysis.
+
+`C#` `ASP.NET` `Hardware integration`
+
+</td>
+</tr>
+</table>
+
+---
+
+## 💼 Experience
+
+| 📅 When | 🏢 Company | 👨‍💻 Role | ✨ Highlight |
+|---|---|---|---|
+| **May 2026 — Present** | **Pantheon** | Software Engineer, CRM | Dynamics 365 / Power Platform for a global private-markets firm |
+| Aug 2022 — Apr 2026 | **Moonpig Group PLC** | Senior Software Engineer — Buyagift / Red Letter Days | +33% CS efficiency · 70% fewer deploy failures · AI automation |
+| Mar 2021 — Jul 2022 | **HESA** | Software Developer | Microservices issue-management platform for UK universities |
+| Aug 2016 — Feb 2021 | **Saudi German Hospitals** | Software Engineer | Hospital Information System live in 3 countries |
+| Apr 2014 — Jul 2016 | **NuWorks Interactive Labs** | Software Engineer | Employee of the Year 2015 |
+| Mar 2011 — Mar 2014 | **PhilWeb Corporation** | System Analyst Programmer | Where it all started 🚀 |
+
+> 📖 Full write-ups with impact numbers live on my [portfolio](https://web-jeromejose.github.io#work) and [about page](https://jeromejose.co.uk/about.html).
+
+---
 
 ## 🏆 Achievements
 
-- 🏅 **Employee of the Month** — Moonpig Group (Feb 2024)
-- 🏆 **Team of the Year Nominee** — Moonpig, cross-brand platform modernisation
-- 🌟 **Employee of the Year** — NuWorks Interactive Labs (2015)
-- 📉 **70% fewer deployment failures** via Terraform modules + Azure DevOps CI/CD
-
-## 📬 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeromefloresjose/)
-[![Email](https://img.shields.io/badge/Email-Say%20Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mrjeromejose@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-2E9EF7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://web-jeromejose.github.io)
-
-I'm open to new opportunities — a question, a role, or just a hello. My inbox is open.
-
----
- 
- 
-
----
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/96/medal.png" width="56" alt="Medal"/><br/>
+<b>Employee of the Month</b><br/>
+<sub>Moonpig Group · Feb 2024</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/96/trophy.png" width="56" alt="Trophy"/><br/>
+<b>Team of the Year Nominee</b><br/>
+<sub>Moonpig · Cross-brand platform modernisation</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/96/star.png" width="56" alt="Star"/><br/>
+<b>Employee of the Year</b><br/>
+<sub>NuWorks Interactive Labs · 2015</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/96/combo-chart.png" width="56" alt="Chart"/><br/>
+<b>70% Fewer Deploy Failures</b><br/>
+<sub>Terraform modules + Azure DevOps CI/CD</sub>
+</td>
+</tr>
+</table>
 
 <div align="center">
 
-**Built with ❤️ (and a lot of coffee ☕) by Jerome Jose**
+![Moonpig](https://img.shields.io/static/v1?label=%F0%9F%8F%85%20Moonpig&message=Employee%20of%20the%20Month&color=orange&style=flat-square)
+![Moonpig](https://img.shields.io/static/v1?label=%F0%9F%8F%86%20Moonpig&message=Team%20of%20the%20Year%20Nominee&color=yellow&style=flat-square)
+![NuWorks](https://img.shields.io/badge/NuWorks-Employee_of_the_Year_2015-6f42c1?style=flat-square&logo=starship&logoColor=white)
+
+</div>
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=web-jeromejose&theme=tokyonight" />
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=web-jeromejose&theme=tokyonight" />
+
+<img src="https://streak-stats.demolab.com?user=web-jeromejose&theme=tokyonight&hide_border=true" />
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=web-jeromejose&theme=tokyonight" />
+
+</div>
+
+---
+
+## 📬 Let's Connect
+
+<div align="center">
+
+I'm open to new opportunities — a role, a collaboration, or just a hello. **My inbox is always open.**
+
+[![Website](https://img.shields.io/badge/Website-jeromejose.co.uk-0F2027?style=for-the-badge&logo=googlechrome&logoColor=white)](https://jeromejose.co.uk)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-2E9EF7?style=for-the-badge&logo=githubpages&logoColor=white)](https://web-jeromejose.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeromefloresjose/)
+[![Email](https://img.shields.io/badge/Email-Say%20Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mrjeromejose@gmail.com)
+
+<br/>
+
+**Built with ❤️ and a lot of ☕ by Jerome Jose**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:10A37F,50:2E9EF7,100:0F2027&height=120&section=footer" width="100%" />
 
 </div>
